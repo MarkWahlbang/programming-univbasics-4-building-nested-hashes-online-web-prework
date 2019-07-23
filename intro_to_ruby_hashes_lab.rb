@@ -1,7 +1,7 @@
 def monopoly
 	monopoly = {
   :railroads => {}
-  :railroads.count => 1
+  :railroads.count = (1)
   :values => [{}]
 	}
 end
