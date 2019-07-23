@@ -1,7 +1,8 @@
 def monopoly
 	monopoly = {}
   :railroads = {}
-  :railroads.count = 
+  :railroads.count = 1
+  
 end
 
 def monopoly_with_second_tier
